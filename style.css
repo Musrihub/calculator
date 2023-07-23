@@ -13,21 +13,22 @@ h1 {
 
 .calculator {
     background-color: rgb(211, 211, 211);
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
     border: none;
+    
 }
 
 .screen {
     width: 224px;
-    background-color: rgb(176, 205, 176);
+    background-color: white;
     font-size: 40px;
     text-align: end;
     padding: 4px;
 }
 
 .buttons {
-    width: 232px;
+    width: 235px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -35,8 +36,8 @@ h1 {
 button {
     background-color: rgb(211, 211, 211);
     border: none;
-    color: rgb(255, 255, 255);
-    font-size: 40px;
+    color: white;
+    font-size: 25px;
     width: 50px;
     height: 50px;
     border-radius: 8px;
@@ -59,7 +60,7 @@ button:hover {
 #clear {
     width: 100%;
     background-color: rgb(211, 211, 211);
-    font-size: 30px;
+    font-size: 14px;
 }
 
 #clear:hover {
