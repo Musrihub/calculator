@@ -12,7 +12,7 @@ h1 {
 }
 
 .calculator {
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(20, 20, 20);
     padding: 10px;
     border-radius: 10px;
     border: none;
@@ -34,7 +34,7 @@ h1 {
 }
 
 button {
-    background-color: rgb(211, 211, 211);
+    background-color: rgba(211, 211, 211, 0.185);
     border: none;
     color: white;
     font-size: 25px;
@@ -50,7 +50,7 @@ button:hover {
 
 
 #equals {
-    background-color: rgb(211, 211, 211);
+    background-color: rgba(211, 211, 211, 0.185);
 }
 
 #equals:hover {
@@ -59,7 +59,7 @@ button:hover {
 
 #clear {
     width: 100%;
-    background-color: rgb(211, 211, 211);
+    background-color:rgba(211, 211, 211, 0.185);
     font-size: 14px;
 }
 
